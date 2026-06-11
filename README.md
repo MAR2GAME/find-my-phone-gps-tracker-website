@@ -16,8 +16,10 @@
 
 ## 部署
 
-将本仓库作为静态网站部署即可。请保持 `app-ads.txt` 位于网站根目录，方便广告平台通过以下地址验证：
+将本仓库作为静态网站部署即可。官网域名为 `www.findmyphone.xin`。
+
+请保持 `app-ads.txt` 位于网站根目录，方便广告平台通过以下地址验证：
 
 ```text
-https://your-domain.example/app-ads.txt
+https://www.findmyphone.xin/app-ads.txt
 ```
